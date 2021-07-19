@@ -48,7 +48,7 @@ https://oasis.ccore.online/address/odkxu5DTrx674PS97zLydHjaYQ9epLcodh
 ### PoS Rewards Breakdown
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td>Phase 0</td><td>1-600</td><td>0 XOS</td><td>0 XOS (PoW)</td><td>0 XOS (PoW)</td></tr>
+<tr><td>Phase 0</td><td>1-600</td><td>N/A </td><td>N/A (PoW)</td><td>N/A (PoW)</td></tr>
 <tr><td>Phase 1</td><td>601-1553600</td><td>0.2 XOS</td><td>75% (0.15 XOS)</td><td>25% (0.05 XOS)</td></tr>
 <tr><td>Phase 2</td><td>1553601-3656000</td><td>0.1 XOS</td><td>75% (0.0725 XOS)</td><td>25% (0.025 XOS)</td></tr>
 <tr><td>Phase 3</td><td>3656001-5758400</td><td>0.05 XOS</td><td>75% (0.0375 XOS)</td><td>25% (0.0125 XOS)</td></tr>
