@@ -39,7 +39,7 @@ Decentralized blockchain voting provides for consensus based advancement of the 
 <tr><td>Premine</td><td>603,720 XOS*</td></tr>
 </table>
 *Balance at snapshot taken July 15th 2021 at 00:00UTC
-
+<br>
 <br>
 ##### Community Donation Fund<br>
 http://explorer.oasisco.in/address/odkxu5DTrx674PS97zLydHjaYQ9epLcodh
