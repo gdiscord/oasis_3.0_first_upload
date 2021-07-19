@@ -5,7 +5,7 @@
 OASIS Core integration/staging repository
 =====================================
 
-[![GitHub version](https://badge.fury.io/gh/gdiscord%2Foasis.svg)](https://badge.fury.io/gh/gdiscord%2Foasis)
+[![GitHub version](https://badge.fury.io/gh/oasiscointeam%2Foasis-core.svg)](https://badge.fury.io/gh/oasiscointeam%2Foasis-core)
 
 **OASIS Coin Masternode Cryptocurrency**
 
