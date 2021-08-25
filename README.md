@@ -16,7 +16,7 @@ Fast transactions featuring guaranteed zero confirmation transactions, known as 
 Decentralized blockchain voting provides for consensus based advancement of the current Masternode technology used to secure the network and provide the above features, each Masternode is secured with a collateral of **285 XOS**.
 
 **Website:** <a href="https://oasisco.in/">https://oasisco.in/</a><br>
-**BitcoinTalk:** <a href="https://bitcointalk.org/index.php?topic=4482370">https://bitcointalk.org/index.php?topic=4482370</a><br>
+**BitcoinTalk:** <a href="https://bitcointalk.org/index.php?topic=4482370">https://bitcointalk.org/index.php?topic=5352583</a><br>
 **Discord:** <a href="https://discord.gg/5SgtbHK">https://discord.gg/5SgtbHK</a><br>
 **Telegram:** <a href="https://t.me/intheOASIS">https://t.me/intheOASIS</a><br>
 **Twitter:** <a href="https://twitter.com/exploreOASIS">https://twitter.com/exploreOASIS</a><br>
@@ -42,7 +42,7 @@ Decentralized blockchain voting provides for consensus based advancement of the 
 <br>
 <br>
 ##### Community Donation Fund<br>
-http://explorer.oasisco.in/address/odkxu5DTrx674PS97zLydHjaYQ9epLcodh
+https://explorer.oasisco.in/address/odkxu5DTrx674PS97zLydHjaYQ9epLcodh
 https://oasis.ccore.online/address/odkxu5DTrx674PS97zLydHjaYQ9epLcodh
 
 ### PoS Rewards Breakdown
